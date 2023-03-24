@@ -1,0 +1,10 @@
+{
+    "changes": [
+        {
+            "packageName": "@yume-chan/adb",
+            "comment": "Add `AdbReverseError` and `AdbReverseNotSupportedError` for better error handling in reverse tunnel command.",
+            "type": "none"
+        }
+    ],
+    "packageName": "@yume-chan/adb"
+}

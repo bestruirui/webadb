@@ -1,0 +1,98 @@
+{
+    "cSpell.words": [
+        "ADB's",
+        "adbd",
+        "allowlist",
+        "arraybuffer",
+        "autorun",
+        "Backquote",
+        "Bframes",
+        "brotli",
+        "Callout",
+        "Cascadia",
+        "CLSE",
+        "CNXN",
+        "colour",
+        "Deserialization",
+        "DESERIALIZERS",
+        "ebml",
+        "Embedder",
+        "fluentui",
+        "genymobile",
+        "Genymobile's",
+        "getprop",
+        "griffel",
+        "keyof",
+        "laggy",
+        "localabstract",
+        "Logcat",
+        "lstat",
+        "luma",
+        "Matroska",
+        "mitm",
+        "muxer",
+        "Muxing",
+        "Nalu",
+        "opendir",
+        "PKCS",
+        "ponyfill",
+        "runtimes",
+        "Scrcpy",
+        "sendrecv",
+        "sideload",
+        "streamsaver",
+        "struct",
+        "struct's",
+        "tcpip",
+        "tinyh",
+        "transferables",
+        "tsbuildinfo",
+        "typeof",
+        "webadb",
+        "webcodecs",
+        "webm",
+        "websockify",
+        "webusb",
+        "wifi",
+        "wirelessly",
+        "WRTE",
+        "yume",
+        "zstd"
+    ],
+    "editor.tabSize": 4,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll": true,
+    },
+    "jest.rootPath": "packages/struct",
+    "jest.showCoverageOnLoad": true,
+    "markdown.extension.toc.levels": "2..6",
+    "files.associations": {
+        "*.mdx": "markdown",
+        "*.json": "jsonc"
+    },
+    "prettier.tabWidth": 4,
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "version-policies.json"
+            ],
+            "url": "https://developer.microsoft.com/json-schemas/rush/v5/version-policies.schema.json"
+        }
+    ],
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.format.semicolons": "insert",
+    "editor.formatOnSave": true,
+    "eslint.workingDirectories": [
+        "libraries/*",
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

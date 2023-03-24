@@ -1,0 +1,16 @@
+{
+    "references": [
+        {
+            "path": "../stream-extra/tsconfig.build.json"
+        },
+        {
+            "path": "../scrcpy/tsconfig.build.json"
+        },
+        {
+            "path": "./tsconfig.test.json"
+        },
+        {
+            "path": "./tsconfig.build.json"
+        },
+    ]
+}
